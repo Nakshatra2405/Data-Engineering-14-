@@ -1,0 +1,26 @@
+{
+  "type": "Compass Connections",
+  "version": {
+    "$numberInt": "1"
+  },
+  "connections": [
+    {
+      "id": "f3146a41-b2c6-498b-beff-4f9076d5fa1e",
+      "lastUsed": {
+        "$date": {
+          "$numberLong": "1757754236343"
+        }
+      },
+      "favorite": {
+        "name": "sales_weatherinfo_db"
+      },
+      "savedConnectionType": "recent",
+      "connectionOptions": {
+        "connectionString": "mongodb://localhost:27017/",
+        "oidc": {
+          "serializedState": "eyJvaWRjUGx1Z2luU3RhdGVWZXJzaW9uIjoxLCJzdGF0ZSI6W119"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+[{
+  "_id": {
+    "$oid": "68c53b02ea74ccdaef84357f"
+  },
+  "city": "London",
+  "weather_date": {
+    "$date": "2025-09-13T00:00:00.000Z"
+  },
+  "description": "broken clouds",
+  "fetched_at": {
+    "$date": "2025-09-13T09:36:02.467Z"
+  },
+  "humidity": 85,
+  "source": "openweather",
+  "temp_c": 14.32
+},
+{
+  "_id": {
+    "$oid": "68c53b5aea74ccdaef843580"
+  },
+  "weather_date": {
+    "$date": "2025-09-13T00:00:00.000Z"
+  },
+  "city": "Pune",
+  "description": "overcast clouds",
+  "fetched_at": {
+    "$date": "2025-09-13T09:37:30.502Z"
+  },
+  "humidity": 94,
+  "source": "openweather",
+  "temp_c": 25.78
+},
+{
+  "_id": {
+    "$oid": "68c53b74ea74ccdaef843581"
+  },
+  "weather_date": {
+    "$date": "2025-09-13T00:00:00.000Z"
+  },
+  "city": "Chengdu",
+  "description": "scattered clouds",
+  "fetched_at": {
+    "$date": "2025-09-13T09:37:56.378Z"
+  },
+  "humidity": 62,
+  "source": "openweather",
+  "temp_c": 29.94
+}]
