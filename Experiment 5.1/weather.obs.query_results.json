@@ -1,0 +1,126 @@
+[{
+  "_id": {
+    "$oid": "68d18051484fcd4da04b57b6"
+  },
+  "city": {
+    "id": 1275339,
+    "name": "Mumbai",
+    "country": "IN",
+    "coord": {
+      "lon": 72.8479,
+      "lat": 19.0144
+    }
+  },
+  "obs_time": {
+    "$date": "2025-09-22T16:49:44.000Z"
+  },
+  "clouds_pct": 75,
+  "ingest_time": {
+    "$date": "2025-09-22T16:58:57.583Z"
+  },
+  "main": {
+    "temp_c": 27.99,
+    "feels_like_c": 32.54,
+    "pressure_hpa": 1011,
+    "humidity_pct": 83
+  },
+  "visibility_m": 3000,
+  "weather": [
+    {
+      "id": 701,
+      "main": "Mist",
+      "description": "mist",
+      "icon": "50n"
+    }
+  ],
+  "wind": {
+    "speed": 3.09,
+    "deg": 40
+  }
+},
+{
+  "_id": {
+    "$oid": "68d18051484fcd4da04b57b7"
+  },
+  "city": {
+    "id": 1273294,
+    "name": "Delhi",
+    "country": "IN",
+    "coord": {
+      "lon": 77.2167,
+      "lat": 28.6667
+    }
+  },
+  "obs_time": {
+    "$date": "2025-09-22T16:56:56.000Z"
+  },
+  "clouds_pct": 4,
+  "ingest_time": {
+    "$date": "2025-09-22T16:58:57.624Z"
+  },
+  "main": {
+    "temp_c": 31.05,
+    "feels_like_c": 34.46,
+    "pressure_hpa": 1005,
+    "humidity_pct": 58
+  },
+  "visibility_m": 4500,
+  "weather": [
+    {
+      "id": 721,
+      "main": "Haze",
+      "description": "haze",
+      "icon": "50n"
+    }
+  ],
+  "wind": {
+    "speed": 3.6,
+    "deg": 300
+  }
+},
+{
+  "_id": {
+    "$oid": "68d18051484fcd4da04b57b8"
+  },
+  "city": {
+    "id": 1275004,
+    "name": "Kolkata",
+    "country": "IN",
+    "coord": {
+      "lon": 88.3697,
+      "lat": 22.5697
+    }
+  },
+  "obs_time": {
+    "$date": "2025-09-22T16:55:10.000Z"
+  },
+  "clouds_pct": 75,
+  "ingest_time": {
+    "$date": "2025-09-22T16:58:57.655Z"
+  },
+  "main": {
+    "temp_c": 27.97,
+    "feels_like_c": 34.36,
+    "pressure_hpa": 1005,
+    "humidity_pct": 94
+  },
+  "visibility_m": 3200,
+  "weather": [
+    {
+      "id": 721,
+      "main": "Haze",
+      "description": "haze",
+      "icon": "50n"
+    },
+    {
+      "id": 500,
+      "main": "Rain",
+      "description": "light rain",
+      "icon": "10n"
+    }
+  ],
+  "wind": {
+    "speed": 1.54,
+    "deg": 250
+  }
+}]
